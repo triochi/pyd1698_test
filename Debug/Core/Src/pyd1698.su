@@ -1,0 +1,7 @@
+dwt_stm32_delay.h:29:22:DWT_Delay_us	24	static
+pyd1698.c:38:6:write_pir_regval	48	static
+pyd1698.c:91:5:read_pir_val	40	static
+pyd1698.c:170:5:read_pir_data	56	static
+pyd1698.c:290:6:pir_clear_int	32	static
+pyd1698.c:331:5:pir_init	16	static
+pyd1698.c:371:6:pir_set_mode	16	static
